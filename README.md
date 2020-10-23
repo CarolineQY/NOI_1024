@@ -12,5 +12,6 @@ python
   * 绘制圣诞树 Christmas tree.py
   * 绘制樱花树 Cherry tree.py
   * 编写贪吃蛇小游戏 Cherry tree.py
+    
     [安装pygame模块](https://blog.csdn.net/Ljt101222/article/details/81184738)
   * 编写打砖块小游戏 Brick Breaking Game.py
