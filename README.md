@@ -1,10 +1,10 @@
 # NOI_1024
-python
+## 课程安排
 
-## 9:00-10:15 刷13道排序题，穿插讲解
+### 9:00-10:15 刷13道排序题，穿插讲解
 + [洛谷](https://www.luogu.com.cn/training/107#problems)
 
-## 10:15-11:30  用python编写简单有趣的程序
+### 10:15-11:30  用python编写简单有趣的程序
 * [安装python及Pycharm](https://blog.csdn.net/qq_29883591/article/details/52664478)
 * [安装pygame模块](https://blog.csdn.net/Ljt101222/article/details/81184738)
 * 运行小程序
